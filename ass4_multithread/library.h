@@ -1,0 +1,6 @@
+#ifndef ASS4_MULTITHREAD_LIBRARY_H
+#define ASS4_MULTITHREAD_LIBRARY_H
+
+void hello(void);
+
+#endif //ASS4_MULTITHREAD_LIBRARY_H
